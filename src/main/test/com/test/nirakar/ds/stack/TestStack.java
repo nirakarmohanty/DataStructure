@@ -2,6 +2,10 @@ package com.test.nirakar.ds.stack;
 
 import com.src.nirakar.ds.stack.Stack;
 
+/**
+ * @author NIRAKAR
+ *
+ */
 public class TestStack {
 	public static void main(String[] args) {
 		Object[] array=null;

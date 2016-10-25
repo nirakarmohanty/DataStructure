@@ -1,5 +1,9 @@
 package com.src.nirakar.ds.stack;
 
+/**
+ * @author NIRAKAR
+ *
+ */
 public class Stack {
 
 	private int size;
