@@ -2,7 +2,7 @@ package com.src.nirakar.ds.stack;
 
 /**
  * @author NIRAKAR
- *
+ * 
  */
 public class Stack {
 
@@ -31,10 +31,24 @@ public class Stack {
 		}
 	}
 
-	public void pop() {
+	/**
+	 * 
+	 */
+	public Object pop() {
+		Object o_variable = null;
 		if (index >= 0) {
-			array[index] = 0;
+			o_variable = array[index];
 			--index;
 		}
+		return o_variable;
+	}
+
+	/**
+	 * Return the top most element in the Stack
+	 * 
+	 * @return
+	 */
+	public Object peep() {
+		return (size() > -1 ? array[index] : null);
 	}
 }
