@@ -1,0 +1,49 @@
+
+Order In Trees - P-I-P (Easy for remembering) 
+Example -1
+==================
+PreOrder - (Left)- RED  - F B A D C E G I H
+
+InOrder - (Bottom) - YELLOW - A B C D E F G H I 
+
+PostOrder - (Right) - GREEN - A C E D B H I G F
+
+Example - 2
+==================
+PreOrder - Left - 1 2 4 8 5 3 6 7
+
+InOrder - Bottom - 8 4 2 5 1 6 3 7
+
+PostOrder - Right - 8 4 5 2 6 7 3 1
+
+
+
+Example -1 PreOrder Traversal 
+Example -2 InOrder Traversal
+Example -3 PostOrder Traversal
+Example -4 GetSum Of All Nodes in a tree
+Example -5 Get Differences between two nodes
+Example -6 Get Total number of Nodes/ Print all Leaf Nodes
+Example -7 Get total number of Leaf Nodes/ Count all Leaf nodes
+Example -8 Height of Tree
+Example -9 print Elements at Certain Level (Revisit)
+Example -10 two binary trees are identical or not (Revisit)
+Example -11 Level order traversal of a binary tree
+Example -12 Spiral order traversal of a binary tree
+Example -13 Reverse level order traversal of a binary tree
+Example -14 Print all Leaf Nodes in a Binary tree
+Example -15 Print Left view of Binary tree 
+Example -16 Print Vertical Order of Binary Tree
+Example -17 Print Top View of Binary Tree
+
+
+
+
+
+Example -12 Delete a binary tree – Iterative and Recursive ((Revisit))
+
+
+							
+						
+							
+							

@@ -1,0 +1,16 @@
+Questions- 
+
+Deleting a node
+Q-2 -Delete a Linked List node at a given position
+	Input: position = 1, Linked List = 8->2->3->1->7
+	Output: Linked List =  8->3->1->7
+
+	Input: position = 0, Linked List = 8->2->3->1->7
+	Output: Linked List = 2->3->1->7
+
+Q3- Write a function to get Nth node in a Linked List
+Q4- Write a function to delete a Linked List (Hint - Head=null)
+Q5- Find Length of a Linked List (Iterative and Recursive)
+Q6- Program for n’th node from the end of a Linked List
+Q7- Find the middle of a given linked list in C and Java
+Q8- Write a function that counts the number of times a given int occurs in a Linked List

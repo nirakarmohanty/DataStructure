@@ -1,0 +1,91 @@
+
+https://www.youtube.com/watch?v=aNU6uBM7Znk&list=PLt4nG7RVVk1hXIW5w54uKEN25MqHNS7_A&index=13
+
+1) How do you find the lowest common ancestor of a binary tree in Java? (solution)
+
+2) How do you print the left view of a binary tree in Java? (solution)
+
+3) Write a program to construct a tree from Inorder and PreOrder traversal in Java? (solution)
+
+4) How do you print common nodes in two binary search trees in Java? (solution)
+
+5) Why binary heap is a better choice over BST for implementing Priority Queue? (answer)
+
+6) How do you check if a given binary tree is balanced or not? Write a Java method, which accepts a binary tree and returns true if it is balanced or false otherwise. (solution)
+
+7) What are some advantages of a binary search tree over a hashtable data structure? (answer)
+
+8) How do you check if a given binary tree is a subtree of another binary tree? (solution)
+You have given two binary trees, and you need to return true if a first binary tree is a subtree of the second one. A subtree of binary tree BT is a tree T consisting of a node from BT and all of its descendants. For example, in the following case, T1 is a subtree of binary tree BT
+
+9) How do you find the distance between two nodes in a binary tree? (solution)
+
+10) How to find the lowest common ancestor in a binary tree in Java? (solution)
+
+11) Write a Java program to check if all leaves of a given binary tree are at the same level? (solution)
+
+12) How do you convert a given binary tree to double linked list in Java? (solution)
+
+13) Write a program to find a depth of a given binary tree in Java? (solution)
+
+14) What is the difference between binary and binary search trees? (answer)
+
+15) What is a self-balanced tree? (answer)
+
+16) What is the AVL Tree? (answer)
+
+17) Write a Java program to print pre-order traversal of a binary search tree? Give a solution using both iteration and recursion? (solution)
+
+18) Print the post-order traversal of BST? Give Iterative and recursive algorithm (solution)
+
+19) Print the inorder traversal of a BST in Java? Give both Iterative and recursive algorithms (solution)
+
+20) You have given a BST, where two nodes are swapped? How do you recover the original BST? (solution)
+
+21) How do you convert a binary tree to a binary search tree in Java? (solution)
+
+22) Find the largest BST subtree of a given binary tree in Java? (solution)
+
+23) Write a Java program to connect nodes at the same level as a binary tree? (solution)
+
+24) What is a Trie data structure? (answer)
+
+25) What is the difference between the Binary tree and Trie? (answer)
+
+26) Print ancestors of a given node of a binary tree in Java? (solution)
+
+27) Write a Java program to print the level of a given node in a binary tree? (solution)
+
+28) Print common nodes of two given BST in Java? (solution)
+
+29) Give a binary tree, print all root-to-leaf path in Java? (solution)
+
+30) Print Inorder tree traversal without recursion in Java? (solution)
+
+31) Print PreOrder tree traversal without recursion and stack in Java? (solution)
+
+32) Print PostOrder tree traversal without recursion in Java? (solution)
+
+33) Java Program to check if a given binary tree is BST or not? (solution)
+
+34) Write a Java Program to count leaf nodes in a binary tree? (solution)
+
+35) Write a Java program to find the height or depth of a binary tree? (solution)
+
+36) How do you find if two given binary trees are the same? (solution)
+Write a method in Java, which will accept two binary trees and return true if they are the same, otherwise return false.
+
+37) How do you delete a given node from a binary search tree in Java? (solution)
+
+38) Write a Java function to add a given node in a binary search tree? (solution)
+
+39) Print a binary tree in vertical order in Java? (solution)
+
+40) What is the Red-Black Tree data structure? (answer)
+Answer - Red-Black Tree is a self-balancing Binary Search Tree (BST) where every node has the following properties
+a) Every node has a color, either red or black.
+b) The root of the tree is always black.
+c) There are no two adjacent red nodes (A red node cannot have a red parent or red child).
+d) Every path from the root to a NULL node has the same number of black nodes.
+
+Read more: https://www.java67.com/2020/02/top-40-binary-tree-interview-questions.html#ixzz6vq7cZ4TT
