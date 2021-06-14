@@ -36,4 +36,10 @@ public class ToyNode {
 	public void setNext(ToyNode next) {
 		this.next = next;
 	}
+
+	@Override
+	public String toString() {
+		return "ToyNode [name=" + name + ", price=" + price + ", count=" + count + "]";
+	}
+	
 }
