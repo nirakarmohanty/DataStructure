@@ -1,12 +1,12 @@
 package com.src.nirakar.ds.linkedlist.single.node;
 
-public class ToyNode {
+public class DressNode {
 	private String name;
 	private double price;
 	private int count;
-	private ToyNode next;
+	private DressNode next;
 
-	public ToyNode(String name, double price, int count, ToyNode next) {
+	public DressNode(String name, double price, int count, DressNode next) {
 		this.name = name;
 		this.price = price;
 		this.count = count;
@@ -29,17 +29,17 @@ public class ToyNode {
 		this.count = count;
 	}
 
-	public ToyNode getNext() {
+	public DressNode getNext() {
 		return next;
 	}
 
-	public void setNext(ToyNode next) {
+	public void setNext(DressNode next) {
 		this.next = next;
 	}
 
 	@Override
 	public String toString() {
-		return "ToyNode [name=" + name + ", price=" + price + ", count=" + count + "]";
+		return "DressNode [name=" + name + ", price=" + price + ", count=" + count + "]";
 	}
 	
 }
